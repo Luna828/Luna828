@@ -51,4 +51,4 @@
 
 [![Luna828's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna828&show_icons=true&theme=dracula&hide_border=true&layout=compact)](https://github.com/Luna828)
 <br>
-[![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luna828&show_icons=true&theme=dracula)](https://github.com/oasis444/github-readme-stats)
+[![Luna828’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luna828&show_icons=true&theme=dracula)]
