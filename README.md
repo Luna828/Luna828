@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuna828&count_bg=%23ED0D52&title_bg=%23000000&icon=rootssage.svg&icon_color=%23FFFFFF&title=Luna828&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LunaKim%20828&fontSize=70)
